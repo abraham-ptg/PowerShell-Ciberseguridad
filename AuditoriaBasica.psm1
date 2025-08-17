@@ -36,13 +36,6 @@ function Obtener-ServiciosExternos{
     Get-Service | Where-Object { $_.Status -eq "Running" -and $_.DisplayName -notmatch "Windows"}
 }
     
-    
-    
-    
-    
-    
-    
-    
-    #>
+
 
 }
