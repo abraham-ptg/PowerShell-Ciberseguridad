@@ -1,4 +1,4 @@
-﻿
+﻿# Editado por Abraham Puente el 17 de agosto de 2025
 
 $usuarios = Get-LocalUser
 
